@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Teerdala
-- 👀 I’m interested in RTL design and Verification
-- 🌱 I’m currently learning System Verilog
+- 👀 I’m interested in RTL design and Verfication
+- 🌱 I’m currently learning System Verilog & UVM
 - 📫 How to reach me : teerdala07@gmail.com
 
 <!---
